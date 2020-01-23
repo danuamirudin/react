@@ -1,0 +1,4 @@
+#Thu Jan 23 08:42:09 WIB 2020
+base.0=/home/znada/Documents/REactNative/AwesomeProject/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
